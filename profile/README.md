@@ -4,9 +4,6 @@
 
 🌈 This repo holds the **official codes**, **learning materials**, **group culture** of our lab--IMPlus@PCALab.
 
-### 🙋‍ Members
-
-
 
 <!--
 🙋‍♀️ A short introduction - 
